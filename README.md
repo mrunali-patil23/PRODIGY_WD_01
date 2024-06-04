@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-This repository contains tasks given by Prodigy Infotech during my internship.
+This repository contains first task given by Prodigy Infotech during my internship.
 # Create an interactive navigation menu
 This is brief summary of the task.
 # Task Summary
