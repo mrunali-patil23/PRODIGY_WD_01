@@ -13,8 +13,8 @@ The goal of the task is to create an interactive navigation menu that changes co
 • Visibility on All Pages: The navigation menu should be present and visible on all pages of the website, providing easy access to different sections or pages.
 • HTML Structure: Use HTML to structure the menu, typically using unordered lists (<ul>) and list items (<li>) for each menu item. Links (<a>) within list items are commonly used to create clickable menu items.
 • CSS Styling: Use CSS to style the navigation menu, including setting the background color, font color, padding, margins, and any other visual properties to achieve the desired appearance.
-• Hover Effects: Implement hover effects using CSS to change the appearance of menu items when the user hovers over them. This could include changing the background color, font color, or adding other visual effects 
-  to indicate interactivity.
+• Hover Effects: Implement hover effects using CSS to change the appearance of menu items when the user hovers over them. This could include changing the background color, font color, or adding other visual 
+  effects to indicate interactivity.
 • Scroll Effects: Use JavaScript to add scroll effects to the navigation menu, such as changing its appearance (e.g., background color, font color) as the user scrolls down the page. This can help improve 
   visibility and provide feedback to the user.
 • Active Menu Item: Highlight the active menu item to indicate the current page or section the user is on. This can be achieved by adding a specific class to the active menu item and styling it differently using 
